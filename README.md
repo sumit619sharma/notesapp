@@ -1,7 +1,7 @@
 # notesapp
 
-"Notes App" in this app user can store their data(like: to-do) .
-user friendly ui ,with one click can add data and  delete. 
+"Notes- Add" an android app made with kotlin .
+here user can store their task on 3 diffenert priority. 
 
 ![Screenshot_20210226-164004_Notes](https://user-images.githubusercontent.com/72352873/109385682-8f5de180-78aa-11eb-8d00-18e563d57b0b.jpg)
 -78aa-11eb-9e57-01807a404bb6.jpg)
