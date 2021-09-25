@@ -1,10 +1,11 @@
 # notesapp
 
 "Notes- Add" an android app made with kotlin .
-here user can store their task on 3 diffenert priority. 
+here user can store their task on 3 diffenert priority.
 
-![Screenshot_20210226-164004_Notes](https://user-images.githubusercontent.com/72352873/109385682-8f5de180-78aa-11eb-8d00-18e563d57b0b.jpg)
--78aa-11eb-9e57-01807a404bb6.jpg)
-![Screenshot_20210226-164020_Notes](https://user-images.githubusercontent.com/72352873/109385715-c2a07080-78aa-11eb-8a26-538466a3bccc.jpg)
 
-![Screenshot_20210227-165207_Notes](https://user-images.githubusercontent.com/72352873/109385754-0eebb080-78ab-11eb-8a03-44fd4b4dc8a9.jpg)
+
+<img src="https://user-images.githubusercontent.com/72352873/134769424-a8beacfe-69e7-4a17-b6c6-6cea76397fb7.jpg" width="300" height="500" >     <img src="https://user-images.githubusercontent.com/72352873/134768849-9caed7e3-63a3-4c2a-a353-3462b36a7faf.jpg" width="300" height="500">    <img src="https://user-images.githubusercontent.com/72352873/134768867-79d8b8b9-d355-4304-a844-bf0dcf830ae3.jpg" width="300" height="500">
+
+
+<img src="https://user-images.githubusercontent.com/72352873/134768878-083a5b9a-e16a-406b-bc58-5b9f11a51d60.jpg" width="300" height="500"> <img src="https://user-images.githubusercontent.com/72352873/134769497-2dfdf666-5954-47e5-9a69-1092246791ad.jpg"  width="300" height="500">
